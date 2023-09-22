@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Moh20All/Rate-app/static/css/main.db9458a7.css",
+    "main.js": "/Moh20All/Rate-app/static/js/main.dad1b9ce.js",
+    "index.html": "/Moh20All/Rate-app/index.html",
+    "static/media/icon-star.svg": "/Moh20All/Rate-app/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.db9458a7.css.map": "/Moh20All/Rate-app/static/css/main.db9458a7.css.map",
+    "main.dad1b9ce.js.map": "/Moh20All/Rate-app/static/js/main.dad1b9ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db9458a7.css",
+    "static/js/main.dad1b9ce.js"
+  ]
+}
